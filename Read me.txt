@@ -1,0 +1,20 @@
+Database
+folder database/bkk.sql
+
+
+User
+------------------------------------------------------
+url : http://localhost/bkk
+ex. user
+NIS : 11304
+Password :11304
+
+
+
+
+Admin
+------------------------------------------------------
+url : http://localhost/bkk/admin
+
+Username : admin
+Password :5
